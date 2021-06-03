@@ -1,6 +1,8 @@
 # on_generate_route
 
-A new Flutter application.
+## 参考
+【YouTube】https://www.youtube.com/watch?v=nyvwx7o277U<br>
+【記事】https://resocoder.com/2019/04/27/flutter-routes-navigation-parameters-named-routes-ongenerateroute/<br>
 
 ## Getting Started
 
